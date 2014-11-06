@@ -2,7 +2,7 @@
 
 > 这只是另外一个 Jekyll 主题文件。
 
-![kunka blog theme](images/blog.jpg)
+![kunka blog theme](https://github.com/Tikitoo/blog/blob/gh-pages/images/blog.jpg)
 
 ###使用方法
 
