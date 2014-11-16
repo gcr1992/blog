@@ -44,7 +44,7 @@ timezone:      null
 title: Tikitoo Blog
 description: Tikitoo, Java Coder, 互联网爱好者, Android Developer.
 keywords: Tikitoo, Android, Java, Internet
-url: http://tikitoo.github.io/blog/
+url: http://tikitoo.github.io/blog
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 
