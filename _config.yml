@@ -21,7 +21,8 @@ future:       true
 unpublished:  false
 
 # Conversion
-markdown:     kramdown
+markdown:     rdiscount
+#kramdown
 highlighter:  pygments
 #highlighter:  null
 #pygments:     false
